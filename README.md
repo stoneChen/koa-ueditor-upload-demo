@@ -16,5 +16,5 @@
 * koa-body必须安装2.0.0版本
 * chrome@50左右版本开始，对image/*类型的file元素，弹出文件选择器将会非常慢，于是将ueditor的源码改了一下下，使得文件选择器更快弹出，`server/middlewares/ueditor/index.js`中有注释说明
 
-
-
+### 我与ueditor之前世今生
+http://cloudstone.xin/2017/01/31/ueditor之一波N折/
